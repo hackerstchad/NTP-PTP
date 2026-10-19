@@ -1,5 +1,8 @@
 # Protocoles de Synchronisation Temporelle : NTP et PTP
 
+<img width="1248" height="832" alt="OIG1 (1)" src="https://github.com/user-attachments/assets/896cd6c9-3d67-4b09-b03b-3d8dc56597ba" />
+
+
 **Auteur :** hackers_tchad  
 **Date de publication :** 2026  
 **Version :** 1.0 - Édition Avancée  
